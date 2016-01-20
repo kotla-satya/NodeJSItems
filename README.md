@@ -1,2 +1,2 @@
 # NodeJSItems
-http://localhost:3000/items to get and post with a "string" in request body 
+http://localhost:3000/items to GET and POST with a "string" in request body 
